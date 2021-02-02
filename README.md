@@ -32,4 +32,10 @@ The improved flower pollination algorithm;
 
 More detailed toturials will be added later.
 
+##### Results
+Example1
 ![image](filter1_results.jpg)
+Example2
+![image](filter2_results.jpg)
+Example3
+![image](filter3_results.jpg)

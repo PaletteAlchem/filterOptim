@@ -1,8 +1,6 @@
 # filterOptim
 This is the source code for research paper titled "Improved Flower Pollination Algorithm for Synthesis of Cross-coupled Filters";
 
-Copyright: only for reaserch studies;
-
 Author: Pei-Wen Shu, Qing-Xin Chu;
 
 Date: 30/01/2021;
@@ -10,6 +8,8 @@ Date: 30/01/2021;
 Email: eespw@mail.scut.edu.cn;
 
 All the references are properly cited in this paper;
+
+Copyright: only for reaserch studies;
 
 Anyone who wishes to use/cite this project or has problems, please contact us.
 

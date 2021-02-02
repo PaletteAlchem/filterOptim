@@ -16,7 +16,7 @@ Anyone who wish to use/cite this project could contact with us.
 ### Three different .m files:
 #### 1. Main_filter1, Main_filter2, Main_filter3:
 
-One could excute them directly to investigate the examples in this paper(Filter1 to Filter2);
+One could excute them directly to investigate all the examples in this paper;
 
 #### 2. Objfunc1, Objfunc2, Objfunc3:
 

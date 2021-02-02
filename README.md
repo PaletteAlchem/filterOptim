@@ -33,9 +33,9 @@ The improved flower pollination algorithm;
 More detailed toturials will be added later.
 
 ##### Results
-Example1
+Example1:
 ![image](filter1_results.jpg)
-Example2
+Example2:
 ![image](filter2_results.jpg)
-Example3
+Example3:
 ![image](filter3_results.jpg)

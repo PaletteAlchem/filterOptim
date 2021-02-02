@@ -31,3 +31,5 @@ Filter response from the synthesized coupling matrix;
 The improved flower pollination algorithm;
 
 More detailed toturials will be added later.
+
+![image](filter1_results.jpg)

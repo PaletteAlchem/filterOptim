@@ -9,7 +9,7 @@ Email: eespw@mail.scut.edu.cn;
 
 All the references are properly cited in this paper;
 
-Copyright: MIT ;
+Copyright: MIT license;
 
 Anyone who wishes to use/cite this project or has problems, please contact us.
 

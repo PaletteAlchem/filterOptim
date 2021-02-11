@@ -13,7 +13,7 @@ Copyright: MIT license;
 
 Anyone who wishes to use/cite this project or has problems, please contact us.
 
-### Three different .m files:
+### Four different classes of .m files:
 #### 1. Main_filter1, Main_filter2, Main_filter3:
 
 One could excute them directly to investigate all the examples in this paper;
